@@ -1,6 +1,5 @@
-#printNC
-
-##Table of Content
+# printNC
+## Table of Content
 1. [Bill Of Material](bom.md)
 2. [Print Settings](print_settings.md)
 3. [Drilling Guides](drilling_guides.md)
