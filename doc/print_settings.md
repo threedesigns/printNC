@@ -1,4 +1,8 @@
 # Print Settings
+## Suggested Filaments and Settings
+The below guide is highly dependent on your own printer, filament and printer profiles and experience. These settings are based on Hobbyking PLA or PETG.
+
+Good layer adhesion and high strength are the primary factors in determining your settings. There is no significant bridging or supports required on any parts and as such much hotter temperatures may be used that traditionally seen.
 
 Parts       	|Filament|	Temp|	Infill|Walls|	QTY    |Notes	
 --------------|--------|------|-------|-----|--------|-----
