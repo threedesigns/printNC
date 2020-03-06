@@ -19,6 +19,7 @@ Z Motor Mount (17 or 23)	|PETG|	255|	60|	3	|1|	Z Motor Mount is tapped down onto
 T8 Riser|	PLA/PETG	|235/255|	60|	3|	1	
 
 * Nema 17 OR Nema 23 mounts required depending on the build configuration.
+
 Ender 3 Print Profile
 This is the Ender3 Profile that I use. It has been highly tuned and provides excellent quality results with very little stringing and high strength for all functional parts. To switch between PLA and PETG simply change the temps PLA: 235 (bed 40) PETG: 255 (bed 90)
 
