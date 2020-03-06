@@ -1,8 +1,4 @@
 # printNC
-100% Free and Open Source, the PrintNC is the next generation of high performance, affordable CNC machines
+The PrintNC is a completely [open-sourcebooks](https://creativecommons.org/licenses/by/4.0/) and very active work in progress, something you’re looking for that is not here yet? Join [r/printnc](http://www.reddit.com/r/printnc) and ask there. Answers are fast and the community quickly growing!
 
- Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+You can live chat on the PrintNC [Discord](https://discord.gg/RxzPna6) with others who are building their machines right now
