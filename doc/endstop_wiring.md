@@ -1,6 +1,6 @@
 # The PrintNC offers integrated end stops the below guide describes wiring in the Y axis
 
-![alt text](src/ENDSTOP.mov "")
+<video src="ENDSTOP_s.mov" width="640" height="496" controls preload></video>
 ![alt text](src/endstop_0.png "")
 ![alt text](src/endstop_1.png "")
 ![alt text](src/endstop_2.png "")
