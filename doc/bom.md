@@ -14,9 +14,10 @@
 | 608 Bearing        | 3  |                          |x|x|
 | M3 x 12mm          | 20  |                         |x| |
 |              |    |                          | | |
-|GT2 200x10mm                    |  1  || | |
+|                                |    |                |**NEMA17**|**NEMA23**|
+|GT2 200x10mm                    | 1  |                          |x| |
 |GT2 20t 10mm Pulley – 8mm Bore  | 1  |                          |x||
-|GT2 20t 10mm Pulley – 5mm Bore  | 2 |                          |x||
+|GT2 20t 10mm Pulley – 5mm Bore  | 2  |                          |x||
 |105Z Bearing (5x10x4)           | 6  |                          |x||
 |5mm-10mm Plum/Flex Coupler      | 2  |                          |x||
 |5mm-8mm Plum Coupler	           | 1  |  Must be Plum to reduce Z axis backlash |x||
