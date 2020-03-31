@@ -3,4 +3,6 @@ The PrintNC is a completely [open-sourcebooks](https://creativecommons.org/licen
 
 You can live chat on the PrintNC [Discord](https://discord.gg/RxzPna6) with others who are building their machines right now
 
+Additional infos you could also find on the homepage: [https://threedesign.store](https://threedesign.store)
+
 Assembly Guide and other Details you will find [here](doc/README.md)
