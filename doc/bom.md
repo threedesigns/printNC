@@ -38,7 +38,8 @@
 | NEMA23       | 4  |                          | |x|
 | RAMPS 1.4    | 1  |                          |x|x|
 | Arduino Mega | 1  |                          |x|x|
-| DRV8825      | 5  |                          |x|x|
+| DRV8825      | 5  |                          |x| |
+| DRV8825      | 4  |                          | |x|
 |              |    |                          | | |
 |              |    |                          | | |
 | **TOOLS**    |    |                          | | |
