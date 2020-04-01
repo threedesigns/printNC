@@ -13,7 +13,7 @@ Additional infos you could also find on the homepage: [https://threedesign.store
 
 1. Define Version Nema 17 vs Nema 23 : Decision Tree
 1. Define Size of Footprint and Beams: Calculator ([metric](https://threedesign.store/metric-frame-size-calculator/) / [imperial](https://threedesign.store/imperial-frame-size-calculator/))
-1. Get the right Printing Files according to your Beams: Download
+1. Get the right Printing Files according to your Beams: [Download](3dprint/)
 1. Get the right Z-Axis motor mount to print --> depending on the z-Axis FacePlate and Motor Version: Download
 1. Collect remaining materials: see BOM
 1. Assembling
