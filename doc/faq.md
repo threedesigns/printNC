@@ -8,7 +8,7 @@ Yes, the dual NEMA17 version of the PrintNC was designed specifically for anyone
 The NEMA23 version is recommended for anyone building from scratch.
 
 ### Which version of the PrintNC should I build?
-![Decision tree](/src/decision_tree.png)
+![Decision tree](src/decision_tree.png)
 
 ### What size frame material do I need?
 The PrintNC stl files are available for two frame cross sections:
