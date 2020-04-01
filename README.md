@@ -6,3 +6,5 @@ You can live chat on the PrintNC [Discord](https://discord.gg/RxzPna6) with othe
 Additional infos you could also find on the homepage: [https://threedesign.store](https://threedesign.store)
 
 Assembly Guide and other Details you will find [here](doc/README.md)
+
+FAQ: [here](doc/faq.md)
