@@ -8,3 +8,12 @@ Additional infos you could also find on the homepage: [https://threedesign.store
 **Assembly Guide** and other Details you will find [here](doc/README.md)
 
 **FAQ:** [here](doc/faq.md)
+
+## Where to Start
+
+1. Define Version Nema 17 vs Nema 23 : Decision Tree
+1. Define Size of Footprint and Beams: Calculator
+1. Get the right Printing Files according to your Beams: Download
+1. Get the right Z-Axis motor mount to print --> depending on the z-Axis FacePlate and Motor Version: Download
+1. Collect remaining materials: see BOM
+1. Assembling
