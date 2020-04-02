@@ -17,3 +17,8 @@ Additional infos you could also find on the homepage: [https://threedesign.store
 1. Get the right Z-Axis motor mount to print --> depending on the z-Axis FacePlate and Motor Version: Download
 1. Collect remaining materials: [see BOM](doc/bom.md)
 1. Assembling
+
+## MODS
+If you would like to modify some parts, you could use the fusion360 File:
+[Download](https://drive.google.com/open?id=1qccpafKKw5RdyNG6PrTtAz_MatO8Yz8L)
+Please share your MOD ideas with us on Discord
