@@ -4,12 +4,12 @@
 | ------------- |:-----:| :-----: |:-----:|:-----:|
 | M6X15mm Button Head| 66 |   |x|x|
 | M6X30mm Socket Head| 30  |   |x|x|
-| M6X50mm Socket Head| 18  |Included in Linear Kit   |x|x|
+| M6X50mm Socket Head| 18  | |x|x|
 | M5X100| 12  |May be substituted for M5 or 5/16 Threaded Rod   |x|x|
 | M5 Lock Nut       | 24  |                         |x|x|
 | M5X20              | 90  |                         |x|x|
 | M5 Threaded Rod    | 990mm |6 x 165mm Lengths      |x|x|
-| T8 Lead Screw      | 130mm |Included in Linear Kit |x|x|
+| T8 Lead Screw      | 130mm | |x|x|
 | T8 Nut             | 1  |                          |x|x|
 | 608 Bearing        | 3  |                          |x|x|
 | M3 x 12mm          | 20  |                         |x| |
