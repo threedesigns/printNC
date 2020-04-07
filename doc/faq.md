@@ -22,7 +22,14 @@ STLs can be generated for other cross section dimensions by modifying the public
 ### What is the working area of the PrintNC?
 The linear kit for sale in the store provides an approximate working area of 1050 mm x 650 mm x 65 mm (41” x 25” x 2.5”)
 
-Larger or smaller can easily be adapted without sacrificing performance
+Larger or smaller can easily be adapted without sacrificing performance.
+
+### How large can the PrinNC be scaled?
+First of all the orientation of the X and Y axis (x wider than Y axis) in the standard size PrintNC was chosen to give you a better access to the work area without limitations to the rigidity. 
+When scaling/planning the PrintNC workspace larger it is better to change the orientation in a way that the Y axis is the longer one of both to avid loss of rigidity and avoid chattering.
+Going on the X workspace larger than 1000mm (39") will, depending on the weigth of the used Z assembly (used spindle etc.), most likely cause a bit of sagging in the X steel beam and the chance of bending forces in Y direction.
+In that cases increasing the thickness of the X steal beam can avoid this to a certain amount. 
+As seen in many other CNC designs planning/building the PrintNC in extreme dimensions will need some practical experience, trials and will be more the exeption in the main stream of builds.    
 
 ### How much will building a PrintNC cost?
 The machine can be built for approximately $1000 USD including the parts not currently available from the [Three Design Store](https://threedesign.store/store/). Everything you need to build a PrintNC except a spindle, steel box section, and stepper motors can be found for about $850 AUD(~$585 USD) plus shipping if you buy from the [Three Design Store](https://threedesign.store/store/). The standard size kits will build a machine with an approximate working area of 1050 mm x 650 mm (41” x 25”).
