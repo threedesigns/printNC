@@ -3,7 +3,7 @@
 1. [Bill Of Material](bom.md)
 2. [Print Settings](print_settings.md)
 3. [Drilling Guides](drilling_guides.md)
-4. [Z-Axis Faceplate](../3dprint/FacePlatesDXF)
+4. [Z-Axis Faceplate](../src/FacePlatesDXF)
 5. [Assembly Guide](PrintNC_Build_Guide.pdf)
 6. [Assembly Guide VIDEO](https://youtu.be/k_gGgE79noc)
 7. [Integrated End Stop Wiring](endstop_wiring.md)
