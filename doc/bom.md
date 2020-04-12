@@ -2,12 +2,12 @@
 
 | HARDWARE                       |  QTY  |                                        NOTES                                        |   NEMA17   |   NEMA23   |                              FOR                               |
 | ------------------------------ | :---: | :---------------------------------------------------------------------------------: | :--------: | :--------: | :------------------------------------------------------------: |
-| M6X15mm Button Head            |  66   |                        Qty depend of the lenght of the rail                         |     x      |     x      |                     Tubing to Tubing / Frontplate to Tubing                  |
+| M6X15mm Button Head            |  66   |                                                 |     x      |     x      |                     Tubing to Tubing / Frontplate to Tubing                  |
 | M6X30mm Socket Head            |  30   |                                                                                     |     x      |     x      |                       BF12 / BK12 Mounts                            |
 | M6X50mm Socket Head            |  18   |                                                                                     |     x      |     x      | BF12 / BK12                                                              |
 | M5X100                         |  12   |                   May be substituted for M5 or 5/16 Threaded Rod                    |     x      |     x      |                    Ballscrew Block (Y Axis)                    |
 | M5 Lock Nut                    |  24   |                                                                                     |     x      |     x      |                       Ballscrew M5 (12x)                       |
-| M5X20                          |  90   |                                                                                     |     x      |     x      | Linear Rails |
+| M5X20                          |  90   |                    Qty depend of the lenght of the rail                                                                 |     x      |     x      | Linear Rails |
 | M5 Threaded Rod                | 990mm |                                  6 x 165mm Lengths                                  |     x      |     x      |                    Ballscrew Block (X Axis)                    |
 | T8 Lead Screw                  | 130mm |                                                                                     |     x      |     x      |                             Z Axis                             |
 | T8 Nut                         |   1   |                                                                                     |     x      |     x      |                             Z Axis                             |
