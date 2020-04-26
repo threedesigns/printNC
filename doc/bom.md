@@ -11,6 +11,7 @@
 | M5 Threaded Rod                | 990mm |                                  6 x 165mm Lengths                                  |     x      |     x      |                    Ballscrew Block (X Axis)                    |
 | T8 Lead Screw                  | 130mm |                                                                                     |     x      |     x      |                             Z Axis                             |
 | T8 Nut                         |   1   |                                                                                     |     x      |     x      |                             Z Axis                             |
+| M3 x 15mm                      |  20   |                                                                                     |     x      |            |                    15-20mm for T8 Nut                    |
 | 608 Bearing                    |   3   |                                                                                     |     x      |     x      |                      Z Axis (1x), ?? (2x)                      |
 | M3 x 12mm                      |  20   |                                                                                     |     x      |            |                    Nema17 to Mounting Block                    |
 |                                |       |                                                                                     |            |            |
