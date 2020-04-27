@@ -85,7 +85,7 @@ box_profiles = {
         'Tall': '3 in',
         'Narrow': '2 in',
         'Thickness': '.125 in',
-        'Radius': '.25'
+        'Radius': '.25 in'
     },
     '3x2x1_8 Square': {
         'Tall': '3 in',
