@@ -1,5 +1,5 @@
-#Author-@giesberge
-#Description-Export STL files from PrintNC
+#Author-
+#Description-
 
 import adsk.core, adsk.fusion, adsk.cam, traceback
 import os
@@ -61,7 +61,7 @@ pieces = {
             'Ball Screw Mount:1',
             'Ball Screw Face Plate:1',
             'Ball Screw Face Plate (2)']),
-        'Ball Screw Face Plate w EndStop': Print3DPiece(['Z Axis:1','Ball Screw Face Plate (1):1']),
+        'Ball Screw Face Plate w EndStop': Print3DPiece(['Z Axis:1','Ball Screw Face Plate (1):1', 'Ball Screw Face Plate']),
         'BF12 Mount': Print3DPiece(['Y Axis:1','BF12 Mount X :1', 'Body1']),
         'BK12 Mount': Print3DPiece(['Y Axis:1','BK12 Mount:1', 'Mount']),
         'Tensioner Brace': Print3DPiece(['X Axis:1','Nema 17:1', 'Dual Mount:1', 'Tensioner (1):1', 'Brace:1', 'Body1']),
@@ -95,25 +95,25 @@ box_profiles = {
     },
     '75x50x3 w 6mm Radius': {
         'Tall': '75 mm',
-        'Narrow': '50 in',
+        'Narrow': '50 mm',
         'Thickness': '3.175 mm',
         'Radius': '5.6 mm'
     },
     '75x50x3 Square': {
         'Tall': '75 mm',
-        'Narrow': '50 in',
+        'Narrow': '50 mm',
         'Thickness': '3.175 mm',
         'Radius': '0'
     },    
     '80x50x3 w 6mm Radius': {
         'Tall': '80 mm',
-        'Narrow': '50 in',
+        'Narrow': '50 mm',
         'Thickness': '3.175 mm',
         'Radius': '5.6 mm'
     },
     '80x50x3 Square': {
         'Tall': '80 mm',
-        'Narrow': '50 in',
+        'Narrow': '50 mm',
         'Thickness': '3.175 mm',
         'Radius': '0'
     },
