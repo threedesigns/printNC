@@ -2,19 +2,19 @@
 
 | HARDWARE                       |  QTY  |                                        NOTES                                        |   NEMA17   |   NEMA23   |                              FOR                               |
 | ------------------------------ | :---: | :---------------------------------------------------------------------------------: | :--------: | :--------: | :------------------------------------------------------------: |
-| M6X15mm Button Head            |  66   |                                                                                     |     x      |     x      | Tubing to Tubing / Frontplate to Tubing                        |
+| M6X15mm Button Head            |  66   | M6x15-16mm                                                                          |     x      |     x      | Tubing to Tubing / Frontplate to Tubing                        |
 | M6X30mm Socket Head            |  30   |                                                                                     |     x      |     x      | BF12 / BK12 Mounts                                             |
 | M6X50mm Socket Head            |  18   |                                                                                     |     x      |     x      | BF12 / BK12                                                    |
 | M5X100                         |  12   | May be substituted for M5 or 5/16 Threaded Rod                                      |     x      |     x      | Ballscrew Block (Y Axis)                                       |
 | M5 Lock Nut                    |  24   |                                                                                     |     x      |     x      | Ballscrew M5 (12x)                                             |
-| M5X20                          |  90   | Qty depend of the length of the r                                                   |     x      |     x      | Linear Rails                                                   |
+| M5X20 Socket Head              |  90   | Qty depend of the length of the r                                                   |     x      |     x      | Linear Rails                                                   |
 | M5 Threaded Rod                | 990mm | 6x 165mm Lengths                                                                    |     x      |     x      | Ballscrew Block (X Axis)                                       |
-| T8 Lead Screw                  | 130mm |                                                                                     |     x      |     x      | Z Axis                                                         |
+| T8 Lead Screw                  | 130mm | 130mm-220mm                                                                         |     x      |     x      | Z Axis                                                         |
 | T8 Nut                         |   1   |                                                                                     |     x      |     x      | Z Axis                                                         |
 | M3x15mm Socket Head            |   4   | M3x15-20mm for fixing the T8                                                        |     x      |     x      | T8 Nut                                                         |
 | 608 Bearing                    |   1   |                                                                                     |            |     x      | Z Axis                                                         |
 | 608 Bearing                    |   3   |                                                                                     |     x      |            | Z Axis (1x), Dual Nema17 Mount (2x)                            |
-| M3 x 12mm                      |  20   |                                                                                     |     x      |            | Nema17 to Mounting Block                                       |
+| M3x12mm Socket Head            |  20   |                                                                                     |     x      |            | Nema17 to Mounting Block                                       |
 |                                |       |                                                                                     |            |            |
 |                                |       |                                                                                     | **NEMA17** | **NEMA23** |
 | GT2 200x10mm                   |   1   |                                                                                     |     x      |            | Dual Nema17 Mount                                              |
@@ -49,6 +49,7 @@
 | Hammer                         |       |                                                                                     |            |            |
 | 6.5mm Drill Bit                |       |                                                                                     |            |            |
 | 5mm Drill Bit                  |       |                                                                                     |            |            |
+| 4.2mm Drill Bit                |       |                                                                                     |            |            | M5 Tap
 | 4mm Allen Key                  |       |                                                                                     |            |            |
 | 5mm Allen Key                  |       |                                                                                     |            |            |
 | M5 Combo Tap/Drill             |       |                                                                                     |            |            |
