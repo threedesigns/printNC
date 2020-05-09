@@ -1,7 +1,11 @@
 # printNC V1.0
 ![printNC Logo](doc/src/Nema17PrintNCRender.png)
 
-The PrintNC is a completely [open-source](https://creativecommons.org/licenses/by/4.0/) and very active work in progress. Is there something you’re looking for that is not here yet? Join [r/printnc](http://www.reddit.com/r/printnc) and ask there. Answers are fast and the community is quickly growing!
+The PrintNC is a high performance, diy cnc router. It's based on a steel frame to ensure rigidity and uses 3d printed parts to make assembly easy.
+
+The PrintNC project is in active development and encourages participation.
+
+Is there something you’re looking for that is not here yet? Join [r/printnc](http://www.reddit.com/r/printnc) and ask there. Answers are fast and the community is quickly growing!
 
 You can live chat on the PrintNC [Discord](https://discord.gg/RxzPna6) with others who are building their machines right now
 
@@ -26,3 +30,8 @@ If you would like to modify some parts, you could use the fusion360 File:
 [Download](https://drive.google.com/open?id=1qccpafKKw5RdyNG6PrTtAz_MatO8Yz8L) 
 
 Please share your modification ideas with us on [Discord](https://discord.gg/RxzPna6) in the mods-and-axes-development channel
+
+
+## License
+
+The PrintNC is completely open-source and operates under the CC BY 4.0 license. See the [LICENSE](LICENSE.md) file for more information.
