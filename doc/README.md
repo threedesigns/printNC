@@ -9,4 +9,5 @@
 7. [Integrated End Stop Wiring](endstop_wiring.md)
 8. [Electronics](electronics.md)
 9. [VFD Configuration](vfd_config.md)
-10. [FAQ](faq.md)
+10. [Wasteboard](wasteboard.md)
+11. [FAQ](faq.md)
