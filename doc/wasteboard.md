@@ -1,4 +1,4 @@
-#Wasteboard materials
+# Wasteboard materials
 
 On any CNC router, workholding is more commonly provided directly by the machine table. This also tends to be a sacrificial piece for through cuts that would otherwise damage the table. 
 
@@ -13,7 +13,7 @@ The solution to that is the more expensive, but still easily workable HDPE: as a
 
 The last solution, is of course aluminum or steel. These are more machine tables than wasteboards, though, and you will probably want to add MDF on top of them when doing a through cut. The upside to that is that they are flatter, more stable, and much more versatile as far as workholding goes: as such, they are especially suited for a machine that is going to use vises, and other more traditional workholding.
 
-#Wasteboard workholding
+# Wasteboard workholding
 
 I'm now going to focus on how we can attach the workpieces to the table.
 
@@ -30,8 +30,9 @@ A second option is the use of bench dogs: bigger holes in the wasteboard, that w
 An option seen on AvidCNC routers, and other similarly sized machines, is the presence of pill shaped slots to use normal C-clamps to hold the stock. This however required clearance under the wasteboard for the clamp, and it may not be an option in many printNC builds. 
 
 Lastly, an option more common for woodworkers (but also present in any professional machine tool), is the use of T-slot tracks. These will be present by default in any aluminum extrusion table, but can be added on any other wasteboard. There are specific router bits for it, aluminum T-tracks to be inserted in a machined slot (but they tend to be expensive) and they can also be made in pieces. Refer here for the last type of T-track (https://youtu.be/jqpJy86iwxc?t=458). T-slot tables have the advantage of not being limited to a grid of threaded holes, but instead have a set of parallel lines where any screw can be tightned through the use of T-nuts. These slots, if made on the machine, are also a reference parallel to one axis, for squaring and aligning.
+![](images/image0.jpg)
 
-#Wasteboard preparation and fixturing
+# Wasteboard preparation and fixturing
 
 On the printNC, according the build, there are multiple ways to affix a wasteboard to the machine.
 
