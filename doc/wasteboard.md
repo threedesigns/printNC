@@ -30,7 +30,7 @@ A second option is the use of bench dogs: bigger holes in the wasteboard, that w
 An option seen on AvidCNC routers, and other similarly sized machines, is the presence of pill shaped slots to use normal C-clamps to hold the stock. This however required clearance under the wasteboard for the clamp, and it may not be an option in many printNC builds. 
 
 Lastly, an option more common for woodworkers (but also present in any professional machine tool), is the use of T-slot tracks. These will be present by default in any aluminum extrusion table, but can be added on any other wasteboard. There are specific router bits for it, aluminum T-tracks to be inserted in a machined slot (but they tend to be expensive) and they can also be made in pieces. Refer here for the last type of T-track (https://youtu.be/jqpJy86iwxc?t=458). T-slot tables have the advantage of not being limited to a grid of threaded holes, but instead have a set of parallel lines where any screw can be tightned through the use of T-nuts. These slots, if made on the machine, are also a reference parallel to one axis, for squaring and aligning.
-![](images/image0.jpg)
+![](/images/image0.jpg)
 
 # Wasteboard preparation and fixturing
 
