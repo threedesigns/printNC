@@ -32,8 +32,12 @@
 | 1325mm                         |   1   |                                                                                     |     x      |     x      | X Axis                                                         |
 | 1300mm                         |   3   |                                                                                     |     x      |     x      | Frame : X Direction                                            |
 | 900mm                          |   2   |                                                                                     |     x      |     x      | Frame : Y Direction                                            |
-| 2x 135mm                       |   2   |                                                                                     |     x      |     x      | X Axis Block                                                   |
-| 2x 70mm                        |   2   |                                                                                     |     x      |     x      | Y Axis Block                                                   |
+|  135mm                       |   2   |                                                                                     |     x      |     x      | X Axis Block                                                   |
+|  70mm                        |   2   |                                                                                     |     x      |     x      | Y Axis Block                                                   |
+| **Linear Rail HGR20**                      |      |                                                                                     |           |           |                                                    |
+|  1100mm                        |   2   |                                                                                     |     x      |     x      | X Axis                                                   |
+|  700mm                        |   2   |                                                                                     |     x      |     x      | Y Axis                                                   |
+|  250mm                        |   2   |                                                                                     |     x      |     x      | Z Axis                                                   |
 |                                |       |                                                                                     |            |            |
 | **Electronics**                |       |                                                                                     | **NEMA17** | **NEMA23** |
 | NEMA17                         |   5   |                                                                                     |     x      |            |
