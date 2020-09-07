@@ -5,7 +5,7 @@
 | M6X15mm Button Head            |  66   | M6x15-16mm                                                                          |     x      |     x      | Tubing to Tubing / Frontplate to Tubing                        |
 | M6X30mm Socket Head            |  30   |                                                                                     |     x      |     x      | BF12 / BK12 Mounts                                             |
 | M6X50mm Socket Head            |  18   |                                                                                     |     x      |     x      | BF12 / BK12                                                    |
-| M5X100                         |  12   | May be substituted for M5 or 5/16 Threaded Rod                                      |     x      |     x      | Ballscrew Block (Y Axis)                                       |
+| M5X100                         |  12   | May be substituted for M5 or 10-24 Threaded Rod                                      |     x      |     x      | Ballscrew Block (Y Axis)                                       |
 | M5 Lock Nut                    |  24   |                                                                                     |     x      |     x      | Ballscrew M5 (12x)                                             |
 | M5X20 Socket Head              |  90   | Qty depend of the length of the r                                                   |     x      |     x      | Linear Rails                                                   |
 | M5 Threaded Rod                | 990mm | 6x 165mm Lengths                                                                    |     x      |     x      | Ballscrew Block (X Axis)                                       |
