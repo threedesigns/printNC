@@ -1,5 +1,5 @@
 # printNC V1.0
-![printNC Logo](doc/src/Nema17PrintNCRender.png)
+![printNC Logo](Media/Images/Nema17PrintNCRender.png)
 
 The PrintNC is a high performance, diy cnc router. It's based on a steel frame to ensure rigidity and uses 3d printed parts to make assembly easy.
 
@@ -11,9 +11,9 @@ You can live chat on the PrintNC [Discord](https://discord.gg/RxzPna6) with othe
 
 Additional information can also be found on the official website: [https://threedesign.store](https://threedesign.store)
 
-**Assembly Guide** and other Details you will find [here](doc/README.md)
+**Assembly Guide** and other Details you will find [here](Documentation/README.md)
 
-**FAQ:** [here](doc/faq.md)
+**FAQ:** [here](Documentation/faq.md)
 
 ## Where to Start
 
