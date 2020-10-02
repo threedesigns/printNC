@@ -1,1 +1,1 @@
-Images for documentation
+Images for Documentation and Wiki articles
