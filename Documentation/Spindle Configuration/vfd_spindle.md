@@ -45,7 +45,7 @@ The spindle shield and ground will also be connected on this red screw on the VF
 ![Cable shield](.../Media/Images/cable_shield.jpg)
 
 The screws in the plastic case in the lower left and right are not connected to ground. Does not use them for grounding.
-![VFD ground](../Media/Images/vfd_internal.jpg)
+![VFD ground](.../Media/Images/vfd_internal.jpg)
 
 The spindle might not be grounded at the factory, you can verify by removing the 4 screws holding the connector to the spindle and pulling on the connector. If the 4th pin is not connected, you will need to open your spindle to add a ground wire to the case. 
 
