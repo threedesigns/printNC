@@ -42,14 +42,14 @@ The ground of the input cable need to be connected to the red screw labeled grou
 
 The spindle shield and ground will also be connected on this red screw on the VFD. The spindle shield need to be connected to ground on both end (VFD and spindle). This is different than a normal signal shield, where only 1 end is connected to ground. A doubly shielded cable with a aluminium foil and a braid is preferable. To make a clean connection, cut the outer jacked, unbraid the braid and twist all the strands. Both the green/yellow ground wire and the braid need to be connected on the 4th pin. 
 
-![Cable shield](.../Media/Images/cable_shield.jpg)
+![Cable shield](https://raw.githubusercontent.com/threedesigns/printNC/master/Media/Images/cable_shield.jpg)
 
 The screws in the plastic case in the lower left and right are not connected to ground. Does not use them for grounding.
-![VFD ground](../Media/Images/vfd_internal.jpg)
+![VFD ground](.../Media/Images/vfd_internal.jpg)
 
 The spindle might not be grounded at the factory, you can verify by removing the 4 screws holding the connector to the spindle and pulling on the connector. If the 4th pin is not connected, you will need to open your spindle to add a ground wire to the case. 
 
-![Spindle ground](.../Media/Images/spindle_ground.jpg)
+![Spindle ground](https://raw.githubusercontent.com/threedesigns/printNC/master/Media/Images/vfd_internal.jpg)
 
 To open the spindle, remove the 4 hex screws and pull the top. There might be some silicone caulk holding the top, hitting it with a rubber mallet might be necessary to remove the top. Solder a AWG18 wire to the 4th pin connector and connected the other end to the spindle case using a eye terminal. Clean the old caulk, verify the O rings where the water will flow in the outer casing, add some new silicone caulk and close it back. Wait 24 hours for the caulk to dry before testing the water cooling. 
 
