@@ -8,6 +8,6 @@
 6. [Assembly Guide VIDEO](https://youtu.be/k_gGgE79noc)
 7. [Integrated End Stop Wiring](endstop_wiring.md)
 8. [Electronics](electronics.md)
-9. [VFD Configuration](vfd_config.md)
+9. [VFD and spindle](vfd_spindle.md)
 10. [Wasteboard](wasteboard.md)
 11. [FAQ](faq.md)
